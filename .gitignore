@@ -1,5 +1,5 @@
-# ignore grid files
-/grid_files
+# ignore netCDF grid files
+/grid_files/*.nc
  
 
 
